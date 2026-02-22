@@ -1,0 +1,201 @@
+[
+  {
+    "id": "DM_DWARKA_SEC_21",
+    "name": "Dwarka Sector 21",
+    "latitude": 28.5520,
+    "longitude": 77.0586,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 1
+  },
+  {
+    "id": "DM_DWARKA_SEC_8",
+    "name": "Dwarka Sector 8",
+    "latitude": 28.5656,
+    "longitude": 77.0670,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 2
+  },
+  {
+    "id": "DM_DWARKA_SEC_9",
+    "name": "Dwarka Sector 9",
+    "latitude": 28.5744,
+    "longitude": 77.0717,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 3
+  },
+  {
+    "id": "DM_DWARKA_SEC_10",
+    "name": "Dwarka Sector 10",
+    "latitude": 28.5823,
+    "longitude": 77.0772,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 4
+  },
+  {
+    "id": "DM_DWARKA_SEC_11",
+    "name": "Dwarka Sector 11",
+    "latitude": 28.5896,
+    "longitude": 77.0816,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 5
+  },
+  {
+    "id": "DM_DWARKA_SEC_12",
+    "name": "Dwarka Sector 12",
+    "latitude": 28.5929,
+    "longitude": 77.0873,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 6
+  },
+  {
+    "id": "DM_DWARKA_SEC_13",
+    "name": "Dwarka Sector 13",
+    "latitude": 28.5973,
+    "longitude": 77.0919,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 7
+  },
+  {
+    "id": "DM_DWARKA_SEC_14",
+    "name": "Dwarka Sector 14",
+    "latitude": 28.6025,
+    "longitude": 77.0966,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 8
+  },
+  {
+    "id": "DM_DWARKA",
+    "name": "Dwarka",
+    "latitude": 28.6179,
+    "longitude": 77.0430,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 9
+  },
+  {
+    "id": "DM_RAJIV_CHOWK",
+    "name": "Rajiv Chowk",
+    "latitude": 28.6328,
+    "longitude": 77.2197,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 10
+  },
+  {
+    "id": "DM_BARAKHAMBA",
+    "name": "Barakhamba Road",
+    "latitude": 28.6298,
+    "longitude": 77.2246,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 11
+  },
+  {
+    "id": "DM_MANDI_HOUSE",
+    "name": "Mandi House",
+    "latitude": 28.6259,
+    "longitude": 77.2343,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 12
+  },
+  {
+    "id": "DM_PRAGATI_MAIDAN",
+    "name": "Pragati Maidan",
+    "latitude": 28.6233,
+    "longitude": 77.2425,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 13
+  },
+  {
+    "id": "DM_INDRAPRASTHA",
+    "name": "Indraprastha",
+    "latitude": 28.6206,
+    "longitude": 77.2497,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 14
+  },
+  {
+    "id": "DM_YAMUNA_BANK",
+    "name": "Yamuna Bank",
+    "latitude": 28.6176,
+    "longitude": 77.2709,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 15
+  },
+  {
+    "id": "DM_LAXMI_NAGAR",
+    "name": "Laxmi Nagar",
+    "latitude": 28.6306,
+    "longitude": 77.2775,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 16
+  },
+  {
+    "id": "DM_NIRMAN_VIHAR",
+    "name": "Nirman Vihar",
+    "latitude": 28.6366,
+    "longitude": 77.2868,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 17
+  },
+  {
+    "id": "DM_PREET_VIHAR",
+    "name": "Preet Vihar",
+    "latitude": 28.6416,
+    "longitude": 77.2955,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 18
+  },
+  {
+    "id": "DM_KARKARDUMA",
+    "name": "Karkarduma",
+    "latitude": 28.6483,
+    "longitude": 77.3045,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 19
+  },
+  {
+    "id": "DM_ANAND_VIHAR",
+    "name": "Anand Vihar ISBT",
+    "latitude": 28.6469,
+    "longitude": 77.3158,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 20
+  },
+  {
+    "id": "DM_KAUSHAMBI",
+    "name": "Kaushambi",
+    "latitude": 28.6450,
+    "longitude": 77.3244,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 21
+  },
+  {
+    "id": "DM_VAISHALI",
+    "name": "Vaishali",
+    "latitude": 28.6456,
+    "longitude": 77.3398,
+    "transportMode": "METRO",
+    "routeId": "BLUE_LINE",
+    "sequenceNumber": 22
+  }
+
+]
